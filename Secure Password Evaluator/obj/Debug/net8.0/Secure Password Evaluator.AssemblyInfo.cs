@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secure Password Evaluator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7689a7eb555b9b1fca4c79c5f356ad51903976")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bd72345f1a6db6e456f79b3687a1e3c5fd0e33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secure Password Evaluator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secure Password Evaluator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
