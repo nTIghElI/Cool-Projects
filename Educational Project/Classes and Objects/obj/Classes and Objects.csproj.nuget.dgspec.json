@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Secure Password Evaluator\\Secure Password Evaluator.csproj": {}
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Educational Project\\Classes and Objects\\Classes and Objects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Secure Password Evaluator\\Secure Password Evaluator.csproj": {
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Educational Project\\Classes and Objects\\Classes and Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Secure Password Evaluator\\Secure Password Evaluator.csproj",
-        "projectName": "Secure Password Evaluator",
-        "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Secure Password Evaluator\\Secure Password Evaluator.csproj",
+        "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Educational Project\\Classes and Objects\\Classes and Objects.csproj",
+        "projectName": "Classes and Objects",
+        "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Educational Project\\Classes and Objects\\Classes and Objects.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Secure Password Evaluator\\obj\\",
+        "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Cool-Projects-1\\Educational Project\\Classes and Objects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
