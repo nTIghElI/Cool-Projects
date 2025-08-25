@@ -1,16 +1,16 @@
-# 🌟 StarLifecycleSimulator
+# StarLifecycleSimulator
 
 A C# console app that simulates the lifecycle of stars—from their radiant youth to their explosive demise.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Stars are the engines of the universe. This project models a simplified version of a star’s lifecycle using object-oriented programming in C#. It’s designed to be educational, extensible, and just a little dramatic.
 
 ---
 
-## 🧠 Concepts & Theory
+## Concepts & Theory
 
 - **Main Sequence**: Stars shine steadily while converting hydrogen into helium.
 - **Aging**: Brightness decays over time as fuel depletes.
@@ -19,7 +19,7 @@ Stars are the engines of the universe. This project models a simplified version 
 
 ---
 
-## 💻 How It Works
+## How It Works
 
 ```csharp
 Star sun = new Star("Sun", "G-Type");
