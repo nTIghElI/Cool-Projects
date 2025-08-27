@@ -27,12 +27,16 @@ class Star
   public void GrowOlder()
   {
     age += 1;
-    brightness = 0.9*brightness;
+    brightness = 0.9 * brightness;
   }
   public void Supernova()
   {
     brightness = 0;
     Console.WriteLine($"Star {name} has exploded in a supernova.");
+  }
+  public void Pulse()
+  {
+    Console.WriteLine($"Star {name} is pulsing rhythmically.");
   }
 
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarLifeCycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69cdca5ba91ae0c25e301fa63a55099fe403c6b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe9c695527f6bdf69d6c825605e65ad9cffd02c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarLifeCycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarLifeCycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,12 +10,14 @@ namespace StarLifecycleSimulator
 
       Star sun = new Star("Sun", "G-Type");
       sun.Shine();
+      sun.Pulse();
       sun.GrowOlder();
       sun.Shine();
       sun.Supernova();
 
       Star unknownStar = new Star("Mystery Star");
       unknownStar.Shine();
+      unknownStar.Pulse();
       unknownStar.GrowOlder();
     }
   }
