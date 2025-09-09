@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Secure Password Evaluator.sln",
+    "CodeGPT.apiKey": "Ollama"
+}

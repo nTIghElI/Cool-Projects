@@ -1,0 +1,6 @@
+static int MeaningOfLife()
+{
+    return 42;
+}
+
+Console.WriteLine($"The meaning of life is {MeaningOfLife()}.");
