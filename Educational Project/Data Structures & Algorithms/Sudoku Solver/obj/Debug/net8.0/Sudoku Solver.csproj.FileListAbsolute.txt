@@ -1,0 +1,15 @@
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\bin\Debug\net8.0\Sudoku Solver.exe
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\bin\Debug\net8.0\Sudoku Solver.deps.json
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\bin\Debug\net8.0\Sudoku Solver.runtimeconfig.json
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\bin\Debug\net8.0\Sudoku Solver.dll
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\bin\Debug\net8.0\Sudoku Solver.pdb
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.AssemblyInfoInputs.cache
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.AssemblyInfo.cs
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.sourcelink.json
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.dll
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\refint\Sudoku Solver.dll
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.pdb
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\Sudoku Solver.genruntimeconfig.cache
+C:\GitHub\Cool-Projects\Educational Project\Data Structures & Algorithms\Sudoku Solver\obj\Debug\net8.0\ref\Sudoku Solver.dll

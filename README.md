@@ -20,6 +20,7 @@ git pull
 ### Step 2: Make Changes
 
 Work on the code. Add new features, fix bugs, create new projects, etc.
+dotnet new console -n //AppName
 
 ### Step 3: `git add` (Stage Changes)
 

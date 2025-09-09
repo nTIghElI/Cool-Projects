@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Cool-Projects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {}
+    "C:\\GitHub\\Cool-Projects\\Educational Project\\Data Structures & Algorithms\\Sudoku Solver\\Sudoku Solver.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Cool-Projects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
+    "C:\\GitHub\\Cool-Projects\\Educational Project\\Data Structures & Algorithms\\Sudoku Solver\\Sudoku Solver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Cool-Projects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
-        "projectName": "DataStructuresAndAlgorithms",
-        "projectPath": "C:\\GitHub\\Cool-Projects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+        "projectUniqueName": "C:\\GitHub\\Cool-Projects\\Educational Project\\Data Structures & Algorithms\\Sudoku Solver\\Sudoku Solver.csproj",
+        "projectName": "Sudoku Solver",
+        "projectPath": "C:\\GitHub\\Cool-Projects\\Educational Project\\Data Structures & Algorithms\\Sudoku Solver\\Sudoku Solver.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Cool-Projects\\DataStructuresAndAlgorithms\\obj\\",
+        "outputPath": "C:\\GitHub\\Cool-Projects\\Educational Project\\Data Structures & Algorithms\\Sudoku Solver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
